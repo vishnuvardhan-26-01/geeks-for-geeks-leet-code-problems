@@ -25,4 +25,21 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+## Array
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
