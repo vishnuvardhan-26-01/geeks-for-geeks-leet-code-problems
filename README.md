@@ -40,6 +40,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
 |  |
