@@ -34,6 +34,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Array
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -102,6 +103,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -127,4 +129,16 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
