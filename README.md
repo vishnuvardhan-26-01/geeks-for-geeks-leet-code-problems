@@ -40,6 +40,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -105,6 +106,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -133,12 +135,15 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
