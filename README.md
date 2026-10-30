@@ -12,6 +12,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1078-remove-outermost-parentheses](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,4 +152,12 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
