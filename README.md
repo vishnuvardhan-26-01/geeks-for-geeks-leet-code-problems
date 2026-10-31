@@ -43,6 +43,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -101,6 +102,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
@@ -151,6 +153,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
