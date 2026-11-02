@@ -35,6 +35,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -57,6 +58,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -82,6 +84,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
