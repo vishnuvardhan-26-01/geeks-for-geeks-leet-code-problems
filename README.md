@@ -47,6 +47,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
@@ -88,6 +89,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
