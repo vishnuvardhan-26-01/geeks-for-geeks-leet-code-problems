@@ -37,6 +37,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -54,12 +55,14 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -168,4 +171,8 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
