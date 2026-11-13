@@ -32,6 +32,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
