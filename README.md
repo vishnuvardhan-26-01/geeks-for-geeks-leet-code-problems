@@ -19,6 +19,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -47,6 +48,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
@@ -111,6 +113,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,8 +196,21 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1396-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
