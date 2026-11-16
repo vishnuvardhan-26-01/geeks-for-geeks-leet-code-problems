@@ -11,6 +11,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4220-minimum-operations-to-sort-a-string) |
@@ -213,4 +214,8 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Simulation
+|  |
+| ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
