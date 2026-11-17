@@ -13,6 +13,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -123,6 +124,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -193,6 +195,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
