@@ -50,6 +50,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -75,6 +76,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
@@ -125,6 +127,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
