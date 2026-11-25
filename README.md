@@ -11,6 +11,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
