@@ -52,6 +52,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3938-twisted-mirror-path-count](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3938-twisted-mirror-path-count) |
@@ -108,6 +109,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -168,6 +170,7 @@ goal is to maintain a consistent streak without skipping even a single day
 ## Enumeration
 |  |
 | ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4257-sum-of-sortable-integers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4257-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
@@ -207,6 +210,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -239,4 +243,8 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
