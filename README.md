@@ -58,6 +58,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -68,6 +69,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,4 +227,16 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
