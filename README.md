@@ -42,6 +42,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2012-process-tasks-using-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2012-process-tasks-using-servers) |
@@ -107,6 +108,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -247,4 +249,16 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
