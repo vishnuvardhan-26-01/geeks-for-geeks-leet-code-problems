@@ -15,6 +15,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -53,6 +54,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -97,6 +99,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [2833-count-zero-request-servers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2833-count-zero-request-servers) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4105-smallest-unique-subarray](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4105-smallest-unique-subarray) |
 ## Bit Manipulation
@@ -143,6 +146,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
@@ -180,6 +184,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1396-count-servers-that-communicate) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
