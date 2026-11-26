@@ -115,6 +115,7 @@ goal is to maintain a consistent streak without skipping even a single day
 | [1477-product-of-the-last-k-numbers](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2496-count-days-spent-together) |
+| [3625-stone-removal-game](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -239,6 +240,7 @@ goal is to maintain a consistent streak without skipping even a single day
 |  |
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/vishnuvardhan-26-01/geeks-for-geeks-leet-code-problems/tree/master/3625-stone-removal-game) |
 ## Rolling Hash
 |  |
 | ------- |
